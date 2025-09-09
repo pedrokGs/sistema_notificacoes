@@ -1,0 +1,8 @@
+spring.application.name=sistema_notificacoes
+spring.rabbitmq.host=host
+spring.rabbitmq.port=5672
+spring.rabbitmq.username=username
+spring.rabbitmq.password=password
+spring.rabbitmq.virtual-host=username
+server.address=0.0.0.0
+server.port=8080
